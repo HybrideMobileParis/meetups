@@ -1,12 +1,14 @@
 # Phonegap Cordova Paris Meetup
 
+![Logo](./logo.png)
+
 http://www.meetup.com/PhoneGap-Paris
 
 Twitter : [@PhonegapParis](http://twitter.com/PhonegapParis)
 
 # Propositions de talk :
 
-Editez propositions.md et envoyez une pull request
+Editez [propositions.md](./propositions.md) et envoyez une pull request
 
 
 # Meetup passés
