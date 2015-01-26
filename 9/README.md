@@ -26,13 +26,12 @@ Pour ce faire, nous avons décidé de décliner le site Web déjà responsive, A
 link : [abulte-AmiAmi.pdf](abulte-AmiAmi.pdf)
 
 ### Maxime Alexandre : Présentation Crosswalk
-Maxime Alexandre de Mobile-spot.com nous présentera Crosswalk : découverte et retours d'expérience sur la techno qui vend du rêve aux développeurs d'applications Cordova.
+Maxime Alexandre de Mobile-Spot nous présentera Crosswalk : découverte et retours d'expérience sur la techno qui vend du rêve aux développeurs d'applications Cordova.
 
 link : [http://retour-experience-crosswalk-cordova.gopagoda.com/index_fr.html](http://retour-experience-crosswalk-cordova.gopagoda.com/index_fr.html)
 
 ### Mathieu le Vavasseur : benchmarking JS frameworks
 Mathieu le Vavasseur de Sparted présentera les solutions pour pallier aux problèmes de performance sur les applis Cordova/Javascript, et particulièrement le framework Mithril.js.
 
-
-
+link : [SPARTED-PhoneGap Meetup - Performance with Cordova-mod.pdf](SPARTED-PhoneGap Meetup - Performance with Cordova-mod.pdf)
 
