@@ -8,6 +8,8 @@ http://www.meetup.com/PhoneGap-Paris/events/218817492/
 
 Cédric Beurtheret du pôle R&D d'Objectif nous fera un retour d'experience sur le couple Phonegap/Angular dans le cadre du déploiement du réseau social d'entreprise TRIBS, avec un focus sur la modularisation.
 
+link : [cedric-tribs.pdf](cedric-tribs.pdf)
+
 ### Alexandre Bulte : Migrer une web app en Angular+Bootstrap sur une application Cordova
 Alexandre Bulte fera un retour d'expérience sur l'utilisation de Booststrap + AngularJS + Cordova : AmiAmi est une application mobile et un site Web qui permettent de demander de l’aide à ses amis et ses amis d’amis Facebook.
 
