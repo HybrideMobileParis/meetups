@@ -23,6 +23,8 @@ Pour ce faire, nous avons décidé de décliner le site Web déjà responsive, A
 
 • Quel bilan ?
 
+link : [abulte-AmiAmi.pdf](abulte-AmiAmi.pdf)
+
 ### Maxime Alexandre : Présentation Crosswalk
 Maxime Alexandre de Mobile-spot.com nous présentera Crosswalk : découverte et retours d'expérience sur la techno qui vend du rêve aux développeurs d'applications Cordova.
 
