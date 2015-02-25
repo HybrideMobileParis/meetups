@@ -2,7 +2,7 @@
 
 Editez ce fichier et soumettez une pull request pour faire votre proposition
 
- - **Ionic in real life** par Marek Kalnik <marekk@bamlab.fr>
+ - **Cordova + Ionic vs. Steroids + Supersonic : est-ce que, et comment migrer ?** par Marek Kalnik <marekk@bamlab.fr>
 
  - **iOS Cordova plugins with SWIFT** par Julien Bouquillon <julien@bouquillon.com>
 
