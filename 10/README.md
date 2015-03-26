@@ -20,3 +20,4 @@ link : [Cordova_Ionic_vs_Steroids_Supersonic.pdf](Cordova_Ionic_vs_Steroids_Supe
 
 Retour sur le système de hook et de merge de Cordova pour gérer un build propre à chaque plateforme. On reviendra sur l’architecture et le découpage en component de l’application permettant de gérer une grosse application tout en gardant le pricipe de "separation of concern” avec Durandal et Knockout. Vous verrez comment grâce à BreezeJS on peut faire une application offline-first très simplement. 
 
+link : [Cordova avec Durandal Knockout et Breeze.pdf](Cordova avec Durandal Knockout et Breeze.pdf)
