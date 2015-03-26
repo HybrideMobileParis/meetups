@@ -4,6 +4,8 @@ Sponsorisé par EKINO
 
 http://www.meetup.com/PhoneGap-Paris/events/220099736
 
+Vidéo : http://numaparis.ubicast.tv/videos/03-23-15-191044/
+
 ### Etienne MARGRAFF : Intégration de Cordova dans les outils de Dev Microsoft 
 
 Microsoft Open Technologie est une division de Microsoft qui est dédiée à l’open source. Ils travaillent sur de nombreux projets dont Apache Cordova. Leur objectif est de faciliter l’usage de Cordova pour créer une version Windows Phone de l’application et de fournir des outils qui améliorent la productivité des devs. Je vous propose de jeter un œil à ces outils !  
