@@ -11,3 +11,5 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
  - ~~**REX Durandal+Knockout+BreezeJS** par Ahmed Radjdi (a confirmer)~~ -> meetup 10
  
  - Offline apps with **couchbase** by James Nocentini @jamiltz : https://speakerdeck.com/jamiltz/couchbasemobile
+
+ - **Ionic c'est pas que de l'UI, découvrez les outils pour vous faciliter la vie** by loicknuchel@gmail.com
