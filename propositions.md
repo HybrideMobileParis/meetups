@@ -11,3 +11,5 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
  - ~~**REX Durandal+Knockout+BreezeJS** par Ahmed Radjdi (a confirmer)~~ -> meetup 10
  
  - Offline apps with **couchbase** by James Nocentini @jamiltz : https://speakerdeck.com/jamiltz/couchbasemobile
+
+ - **Des maps en offline pour une appli hybride** par Benjamin Michel <benjaminm@bamlab.fr> : http://blog.bamlab.fr/how-to-build-an-offline-map-system-for-an-hybrid-app/
