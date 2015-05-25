@@ -13,7 +13,7 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
  - Offline apps with **couchbase** by James Nocentini @jamiltz : https://speakerdeck.com/jamiltz/couchbasemobile
 
 
- - **Des maps en offline pour une appli hybride** par Benjamin Michel <benjaminm@bamlab.fr> : http://blog.bamlab.fr/how-to-build-an-offline-map-system-for-an-hybrid-app/
+ - ~~**Des maps en offline pour une appli hybride** par Benjamin Michel <benjaminm@bamlab.fr> :~~ http://blog.bamlab.fr/how-to-build-an-offline-map-system-for-an-hybrid-app/
 
- - **Ionic c'est pas que de l'UI, découvrez les outils pour vous faciliter la vie** by loicknuchel@gmail.com
+ - ~~**Ionic c'est pas que de l'UI, découvrez les outils pour vous faciliter la vie** by loicknuchel@gmail.com~~
 
