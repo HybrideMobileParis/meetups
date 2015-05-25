@@ -1,6 +1,6 @@
 
 
-# MEETUP PHONEGAP #11
+# MEETUP PHONEGAP #11 @NUMA
 
 ## Best Of Web
 
@@ -45,3 +45,8 @@
     - Cordova Games perfs, store & sdk tips
     - leaderboars & achievements management, signin, revenues with play services (google) & game center (iOs)
     - game-center unified plugin
+
+## Tonight
+
+ - **Loïc Knuchel** @loicknuchel Ionic c'est pas que de l'UI, découvrez les outils pour vous faciliter la vie by loicknuchel@gmail.com -> [SLIDES](./ionic-loic-knuchel.pdf)
+ - **Benjamin Michel** @benjmichel Des maps en offline pour une appli hybride par Benjamin Michel : http://blog.bamlab.fr/how-to-build-an-offline-map-system-for-an-hybrid-app by benjaminm@bamlab.fr 
