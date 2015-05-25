@@ -49,4 +49,4 @@
 ## Tonight
 
  - **Loïc Knuchel** @loicknuchel Ionic c'est pas que de l'UI, découvrez les outils pour vous faciliter la vie by loicknuchel@gmail.com -> [SLIDES](./ionic-loic-knuchel.pdf)
- - **Benjamin Michel** @benjmichel Des maps en offline pour une appli hybride par Benjamin Michel : http://blog.bamlab.fr/how-to-build-an-offline-map-system-for-an-hybrid-app by benjaminm@bamlab.fr 
+ - **Benjamin Michel** @benjmichel Des maps en offline pour une appli hybride par Benjamin Michel :  [SLIDES](./Offline_maps-Benjamin_Michel.pdf)  http://blog.bamlab.fr/how-to-build-an-offline-map-system-for-an-hybrid-app by benjaminm@bamlab.fr 
