@@ -1,6 +1,5 @@
 
-
-# MEETUP PHONEGAP #11 @NUMA
+# Phonegap/Cordova Paris Meetup #11 du 25/05/2015 @NUMA
 
 ## Best Of Web
 
