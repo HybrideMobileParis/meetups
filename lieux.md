@@ -7,3 +7,5 @@
  - Chez OBJECTIF
  - Chez https://www.facebook.com/sensespaceparis/info
  - Chez Urban linker : Amaury Perrier <amaury@urbanlinker.com>
+ - BeMyApp
+ - Criteo
