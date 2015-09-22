@@ -16,3 +16,17 @@ Un tarif fixe pour votre taxi Orly ou votre taxi Roissy, privé ou partagé
 Application AngularJS + TopCoat + cordova pour iOS uniquement
 
 https://itunes.apple.com/us/app/wecab-le-taxi-aeroport-par/id732402193
+
+### La Gazette des communes (Groupe LaCentrale)
+
+Actualité, juridique, contenus premium, offres d'emploi - La Gazette des communes sur votre mobile.
+
+Application Backbone + jQueryMobile + cordova iOS et Android
+
+REX technique : http://benjaminlupu.net/274/phonegap-un-apercu-du-futur-des-applications-mobiles/#.VgEwL2SLTUI
+
+https://itunes.apple.com/fr/app/la-gazette-des-communes/id824262837?mt=8
+
+https://play.google.com/store/apps/details?id=com.netapsys.lagazettedescommunes&hl=fr
+
+
