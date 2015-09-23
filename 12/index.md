@@ -18,12 +18,12 @@
 ## Community
 
 - plus de meetups cette année, hybride++
-- on a besoin de speakers, talks ~20min ou lightnings 5min
+- on a besoin de speakers, talks ~20min ou lightnings 5min -> PR sur github
 - page github : https://github.com/Phonegap-Cordova-Paris/meetups
-- slack : cordova.slack.io avec channel #france
+- slack : http://cordova.slack.io avec channel #france
 - qui a déja publié des apps cordova ?
-- gens intéréssés par des workshops ?
-- recherche lieux/sponsors
+- gens intéréssés par des workshops initiation ?
+- recherche lieux/sponsors -> PR sur github
 
 ## Tonight
 
