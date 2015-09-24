@@ -27,7 +27,16 @@
 
 ## Tonight
 
-- **ACTU PG/Cordova** Maxime Alexandre de mobile-spot
-- Intégration de la **carto GoogleMap native** dans un projet Cordova par Yann Leflour de BamLab.fr
-- **Intégration continue** avec Cordova et Circle CI par Eliot Andres de BamLab.fr
-- **Intégration de Cordova** dans une application native par Benjamin Michel de BamLab.fr
+### **ACTU PG/Cordova** Maxime Alexandre de mobile-spot
+
+### Intégration de la **carto GoogleMap native** dans un projet Cordova par Yann Leflour de BamLab.fr : 
+
+http://slides.com/yannleflour/maps-in-cordova#/
+
+### **Intégration continue** avec Cordova et Circle CI par Eliot Andres de BamLab.fr
+
+https://github.com/bamlab/CircleCI-Scripts
+
+### **Intégration de Cordova** dans une application native par Benjamin Michel de BamLab.fr
+
+https://speakerdeck.com/benjmichel/integrer-cordova-dans-une-appli-native
