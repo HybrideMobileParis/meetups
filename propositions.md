@@ -17,6 +17,6 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
 
  - ~~**Ionic c'est pas que de l'UI, découvrez les outils pour vous faciliter la vie** by loicknuchel@gmail.com~~
 
-- **Intégration de la carte GoogleMap native dans un projet Cordova** par Yann Leflour <yannl@bamlab.fr>
+- ~~**Intégration de la carte GoogleMap native dans un projet Cordova** par Yann Leflour <yannl@bamlab.fr>~~
 
-- **Intégration de Cordova dans une application native** par Benjamin Michel <benjaminm@bamlab.fr>
+- ~~**Intégration de Cordova dans une application native** par Benjamin Michel <benjaminm@bamlab.fr>~~
