@@ -27,7 +27,8 @@
 
 ## Tonight
 
-### **ACTU PG/Cordova** Maxime Alexandre de mobile-spot
+### **ACTU PhoneGap/Cordova** Maxime Alexandre de mobile-spot
+[SLIDES](./News Cordova Phonegap Sept 2015.pdf)
 
 ### Intégration de la **carto GoogleMap native** dans un projet Cordova par Yann Leflour de BamLab.fr : 
 
