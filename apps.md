@@ -92,3 +92,13 @@ WebApp : http://siae.mobi
 Android : https://play.google.com/store/apps/details?id=com.mobilespot.siae
 iOS : https://itunes.apple.com/fr/app/salon-du-bourget/id628105892
 Windows Phone : https://www.microsoft.com/en-us/store/apps/paris-air-show/9wzdncrd2qsz
+
+### Lichess mobile
+
+Application officielle de http://lichess.org pour iOS et android
+
+http://fr.lichess.org/mobile
+
+https://play.google.com/store/apps/details?id=org.lichess.mobileapp
+
+https://itunes.apple.com/us/app/lichess-free-online-chess/id968371784
