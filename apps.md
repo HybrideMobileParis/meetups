@@ -9,6 +9,17 @@ L'application Android est en Cordova (avec une couche frontend Bootstrap). En re
 <a href="http://www.amiami-app.com">Le site d'AmiAmi</a><br/>
 <a href="https://play.google.com/store/apps/details?id=com.amiami.app.alpha">L'application sur le Play Store</a>
 
+### P Mobile
+
+P Mobile, stationnez plus malin !
+Facile, rapide et intuitif:
+P Mobile est l'application de la Mairie de Paris qui facilite le paiement du stationnement au tarif visiteur dans les 4 premiers arrondissements de Paris.
+
+https://play.google.com/store/apps/details?id=com.buzzaka.paris_stationp&hl=fr_FR
+
+https://itunes.apple.com/fr/app/pmobile/id897833791?l=fr&ls=1&mt=8
+
+
 ### WeCab par Taxis G7
 
 Un tarif fixe pour votre taxi Orly ou votre taxi Roissy, privé ou partagé
