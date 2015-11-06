@@ -19,6 +19,19 @@ https://play.google.com/store/apps/details?id=com.buzzaka.paris_stationp&hl=fr_F
 
 https://itunes.apple.com/fr/app/pmobile/id897833791?l=fr&ls=1&mt=8
 
+### Que faire à Paris
+
+Que Faire à Paris is the mobile application developed by the City of Paris to dig up the best cultural opportunities in real time. Exhibitions, gigs, sports, shows, activities for the kids… find out what’s happening right now and next door on our interactive map.
+
+https://play.google.com/store/apps/details?id=fr.paris.quefaire
+
+https://itunes.apple.com/fr/app/que-faire-a-paris/id962402025?mt=8
+
+### Dans ma rue
+
+You want to participate in improving the quality of life in your neighborhood? DansMaRue Paris is an experimental application from city of Paris that allows you to report deficiencies across Paris to the nearest and most competent technical service in order to analyze and deal with them. You can also post some proposals about revegetation projects in your neighborhood.
+
+https://play.google.com/store/apps/details?id=fr.paris.android.signalement
 
 ### WeCab par Taxis G7
 
