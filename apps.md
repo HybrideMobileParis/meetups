@@ -67,3 +67,15 @@ Synchronizez vous avec votre TV
 
 https://itunes.apple.com/fr/app/loeil-de-links/id1031584030?mt=8
 
+### Salon du Bourget 2015
+
+L'application officielle du Salon du Bourget (Web App, Android, iOS, Windows Phone)
+
+Permet de consulter toutes les infos du salon : la liste des exposants, nouveaux produits, évènements... Un plan intéractif contenant la vue de tous les stands est intégré à l'application, permettant en plus de se géolocaliser à l'intérieur des halls. L'utilisateur peut aussi créér un groupe d'amis afin de partager et consulter en temps réel les positions des membres du groupe.
+
+http://www.siae.fr/EN/PRACTICAL-INFORMATION/Mobile-Application.htm
+
+WebApp : http://siae.mobi
+Android : https://play.google.com/store/apps/details?id=com.mobilespot.siae
+iOS : https://itunes.apple.com/fr/app/salon-du-bourget/id628105892
+Windows Phone : https://www.microsoft.com/en-us/store/apps/paris-air-show/9wzdncrd2qsz
