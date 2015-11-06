@@ -29,6 +29,23 @@ https://itunes.apple.com/fr/app/la-gazette-des-communes/id824262837?mt=8
 
 https://play.google.com/store/apps/details?id=com.netapsys.lagazettedescommunes&hl=fr
 
+### Impots.gouv
+
+Impots.gouv est l’application officielle de la direction générale des finances publiques (DGFiP).
+
+https://play.google.com/store/apps/details?id=fr.gouv.finances.smartphone.android&hl=fr
+
+https://itunes.apple.com/fr/app/impots.gouv/id505488770?mt=8
+
+### SalooN Events
+
+Avec SalooN, ne ratez plus votre salon ! Planifier en avance les stands que vous souhaitez voir ainsi que les sessions qui vous font envie et retrouvez tous ces événements dans votre visite personnalisée. 
+
+https://itunes.apple.com/fr/app/saloon-events/id999897097?l=en&mt=8
+
+https://play.google.com/store/apps/details?id=co.saloonapp.eventexplorer
+
+
 ### L'oeil de Links (canal+)
 
 Appli de second écran pour l'emission l'Oeil de Links
