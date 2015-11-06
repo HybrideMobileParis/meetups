@@ -102,3 +102,14 @@ http://fr.lichess.org/mobile
 https://play.google.com/store/apps/details?id=org.lichess.mobileapp
 
 https://itunes.apple.com/us/app/lichess-free-online-chess/id968371784
+
+### Hockey Community
+
+Hockey Community a pour objectif de rendre le hockey plus accessible.
+- Leagues, équipes et organisateurs de tournoi peuvent utiliser HC pour gérer les statistiques, feuille de match et leur emploi du temps.
+- Trouver des parties autour de vous.
+- Trouver des gardiens en quelques minutes.
+
+https://play.google.com/store/apps/details?id=com.hockeycommunity.hc_app&hl=fr
+
+https://itunes.apple.com/fr/app/hockey-community/id513748078?mt=8
