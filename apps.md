@@ -29,4 +29,13 @@ https://itunes.apple.com/fr/app/la-gazette-des-communes/id824262837?mt=8
 
 https://play.google.com/store/apps/details?id=com.netapsys.lagazettedescommunes&hl=fr
 
+### L'oeil de Links (canal+)
+
+Appli de second écran pour l'emission l'Oeil de Links
+
+Retrouvez toutes les emissions et accédez à du contenu additionnel
+
+Synchronizez vous avec votre TV
+
+https://itunes.apple.com/fr/app/loeil-de-links/id1031584030?mt=8
 
