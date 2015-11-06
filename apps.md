@@ -56,3 +56,9 @@ Synchronizez vous avec votre TV
 
 https://itunes.apple.com/fr/app/loeil-de-links/id1031584030?mt=8
 
+# Lichess mobile
+
+Application officiel de http://lichess.org pour iOS et android
+
+http://fr.lichess.org/mobile
+
