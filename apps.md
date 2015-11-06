@@ -41,7 +41,9 @@ Application AngularJS + TopCoat + cordova pour iOS uniquement
 
 https://itunes.apple.com/us/app/wecab-le-taxi-aeroport-par/id732402193
 
-### La Gazette des communes (Groupe LaCentrale)
+### La Gazette des communes (Infopro)
+
+B2B content about local authorities (both free and premium), legal & laws monitoring, jobs.
 
 Actualité, juridique, contenus premium, offres d'emploi - La Gazette des communes sur votre mobile.
 
