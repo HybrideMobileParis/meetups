@@ -22,3 +22,5 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
 - ~~**Intégration de Cordova dans une application native** par Benjamin Michel <benjaminm@bamlab.fr>~~
 
 - **Web Animation Performance** par Freddy Harris <freddy03h@gmail.com>
+
+ - **Cordova vs. React Native : différences, avantages et pain points de RN** par Florian Rival <florianr@bamlab.fr>
