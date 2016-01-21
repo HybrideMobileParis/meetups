@@ -42,5 +42,5 @@
 
 # Tonight
 
- - Web Animation Performance by **Freddy Harris**
+ - Web Animation Performance by **Freddy Harris** - slides : http://freddy03h.github.io/render-presentation
  - Cordova VS react-native par **Florian Rival** de BamLab.fr - slides : http://slides.com/florianrival/react-native
