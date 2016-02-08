@@ -9,3 +9,4 @@
  - Chez Urban linker : Amaury Perrier <amaury@urbanlinker.com>
  - BeMyApp
  - Criteo
+ - Sogé, cf alexis
