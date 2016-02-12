@@ -131,3 +131,15 @@ Pour Grenoble :
 https://play.google.com/store/apps/details?id=fr.dankastudio.cdfra.guide_prod.grenoble
 
 https://itunes.apple.com/us/app/grenoble-guide-production/id1037840058?l=fr&ls=1&mt=8
+
+### Ambiance & Styles
+
+L'application officielle des magasins Ambiance & Styles. 
+
+Écrite en Jade/Angular+Ionic/Sass et compilée dans PhoneGap Build.
+
+http://www.ambianceetstyles.com/app
+
+https://itunes.apple.com/fr/app/ambiance-styles/id1062310351
+
+https://play.google.com/store/apps/details?id=pro.fing.app.ambiancestyles
