@@ -9,7 +9,7 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
  - ~~**Intégration de Cordova dans les outils de Dev Microsoft** par Etienne Margraff <etienne.margraff@microsoft.com>~~ -> meetup 10
 
  - ~~**REX Durandal+Knockout+BreezeJS** par Ahmed Radjdi (a confirmer)~~ -> meetup 10
- 
+
  - Offline apps with **couchbase** by James Nocentini @jamiltz : https://speakerdeck.com/jamiltz/couchbasemobile
 
 
@@ -21,6 +21,8 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
 
 - ~~**Intégration de Cordova dans une application native** par Benjamin Michel <benjaminm@bamlab.fr>~~
 
-- **Web Animation Performance** par Freddy Harris <freddy03h@gmail.com>
+- ~~**Web Animation Performance** par Freddy Harris <freddy03h@gmail.com>~~ -> meetup 13
 
- - **Cordova vs. React Native : différences, avantages et pain points de RN** par Florian Rival <florianr@bamlab.fr>
+- ~~**Cordova vs. React Native : différences, avantages et pain points de RN** par Florian Rival <florianr@bamlab.fr>~~ -> meetup 13
+
+- **Déployer une app Cordova/React Native/Native sur les stores en une ligne de commande avec Fastlane** par Alexandre Moureaux <alexandrem@bamlab.fr>
