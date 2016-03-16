@@ -14,6 +14,8 @@ Editez [propositions.md](./propositions.md) et envoyez une pull request
  - [Meetup #12 : 23 Septembre 2015](http://www.meetup.com/PhoneGap-Paris/events/223830594/)
 
 # Meetup passés
+ - [Meetup #13 : 20 Janvier 2016](./13)
+ - [Meetup #12 : 23 Septembre 2015](./12)
  - [Meetup #11 : 25 Mai 2015](./11)
  - [Meetup #10 : 23 Mars 2015](./10)
  - [Meetup #9 : 20 Janvier 2015](./9)
