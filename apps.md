@@ -82,6 +82,8 @@ Synchronizez vous avec votre TV
 
 https://itunes.apple.com/fr/app/loeil-de-links/id1031584030?mt=8
 
+https://play.google.com/store/apps/details?id=tv.s10d.lodl
+
 ### Salon du Bourget 2015
 
 L'application officielle du Salon du Bourget (Web App, Android, iOS, Windows Phone)
