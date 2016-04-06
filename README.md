@@ -1,4 +1,6 @@
-# Phonegap Cordova Paris Meetup
+# Hybride Mobile Paris Meetup
+
+Everything mobile hybride : Phonegap, Cordova, react-native and more
 
 ![Logo](./logo.png)
 
