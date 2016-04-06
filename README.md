@@ -13,7 +13,7 @@ Twitter : [@PhonegapParis](http://twitter.com/PhonegapParis)
 Editez [propositions.md](./propositions.md) et envoyez une pull request
 
 # Prochain Meetup
- - [Meetup #12 : 23 Septembre 2015](http://www.meetup.com/PhoneGap-Paris/events/223830594/)
+ - [Meetup #14 : 4 Avril 2015](http://www.meetup.com/PhoneGap-Paris/events/230047864/)
 
 # Meetup passés
  - [Meetup #13 : 20 Janvier 2016](./13)
