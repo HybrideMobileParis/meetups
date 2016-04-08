@@ -84,6 +84,14 @@ https://itunes.apple.com/fr/app/loeil-de-links/id1031584030?mt=8
 
 https://play.google.com/store/apps/details?id=tv.s10d.lodl
 
+### AirCaptain
+
+AirCaptain compare les prix des vols sous tous les angles. Les outils de recherche analysent les voyagistes mais également les destinations et les dates de vols.
+
+https://itunes.apple.com/bj/app/aircaptain/id1073676681
+
+https://play.google.com/store/apps/details?id=com.illicotravel.aircaptain
+
 ### Salon du Bourget 2015
 
 L'application officielle du Salon du Bourget (Web App, Android, iOS, Windows Phone)
