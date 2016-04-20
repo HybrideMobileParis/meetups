@@ -32,7 +32,7 @@ Phonegap day EU 19/20 Mai à Amsterdam : http://pgday.phonegap.com/eu2016 (150e)
 
  - **[Woody Rousseau](https://twitter.com/WoodyRousseau)** de Théodo : Builder et déployer des mises à jour automatiquement avec Ionic Platform 
 
- - **[Benjamin Michel](https://twitter.com/BenjMichel)** de BamLab.fr : Caching for high-performance hybrid apps 
+ - **[Benjamin Michel](https://twitter.com/BenjMichel)** de BamLab.fr : Caching for high-performance hybrid apps -> SLIDES : http://slides.com/benjaminbam/c#/
 
  - Drinks
 
