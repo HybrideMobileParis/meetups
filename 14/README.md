@@ -26,7 +26,7 @@ Phonegap day EU 19/20 Mai à Amsterdam : http://pgday.phonegap.com/eu2016 (150e)
 
 # Tonight
 
- - **[Kevin Jalais](https://twitter.com/kevinjalais)** de Arolla : Overview de Xamarin
+ - **[Kevin Jalais](https://twitter.com/kevinjalais)** de Arolla : Overview de Xamarin : [slides](./xamarin-overview.pdf)
 
  - **[Alexandre Moureaux](https://twitter.com/almouro)** de BamLab.fr : Déployer une app Cordova/React Native/Native sur les stores en une ligne de commande avec Fastlane
 
@@ -38,7 +38,7 @@ Phonegap day EU 19/20 Mai à Amsterdam : http://pgday.phonegap.com/eu2016 (150e)
 
 # News
 
- - ecosysteme react native
+ - ecosysteme react native : tooling, support angular2...
  - [swift sur android](https://github.com/apple/swift/pull/1442)
  - cordova 6.1 :
     - support des [templates de projets avec GIT](https://medium.com/modus-create-front-end-development/new-in-cordova-6-app-templates-using-git-24bcacc96b39)
