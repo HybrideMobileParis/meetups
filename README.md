@@ -6,16 +6,18 @@ Everything mobile hybride : Phonegap, Cordova, react-native and more
 
 http://www.meetup.com/PhoneGap-Paris
 
-Twitter : [@PhonegapParis](http://twitter.com/PhonegapParis)
+Twitter : [@HybrideParis](http://twitter.com/HybrideParis)
 
 # Propositions de talk :
 
 Editez [propositions.md](./propositions.md) et envoyez une pull request
 
-# Prochain Meetup
- - [Meetup #14 : 4 Avril 2015](http://www.meetup.com/PhoneGap-Paris/events/230047864/)
+# Prochains Meetups
+ 
+ http://www.meetup.com/PhoneGap-Paris
 
 # Meetup passés
+ - [Meetup #14 : 4 Avril 2015](./14)
  - [Meetup #13 : 20 Janvier 2016](./13)
  - [Meetup #12 : 23 Septembre 2015](./12)
  - [Meetup #11 : 25 Mai 2015](./11)
