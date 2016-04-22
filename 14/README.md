@@ -28,7 +28,7 @@ Phonegap day EU 19/20 Mai à Amsterdam : http://pgday.phonegap.com/eu2016 (150e)
 
  - **[Kevin Jalais](https://twitter.com/kevinjalais)** de Arolla : Overview de Xamarin : [slides](./xamarin-overview.pdf)
 
- - **[Alexandre Moureaux](https://twitter.com/almouro)** de BamLab.fr : Déployer une app Cordova/React Native/Native sur les stores en une ligne de commande avec Fastlane
+ - **[Alexandre Moureaux](https://twitter.com/almouro)** de BamLab.fr : Déployer une app Cordova/React Native/Native sur les stores en une ligne de commande avec Fastlane : [slides](http://slides.com/alexandremoureaux/fastlane)
 
  - **[Woody Rousseau](https://twitter.com/WoodyRousseau)** de Théodo : Builder et déployer des mises à jour automatiquement avec Ionic Platform : [slides](./ionic-platform.pdf)
 
