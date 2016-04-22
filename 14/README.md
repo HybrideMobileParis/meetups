@@ -30,7 +30,7 @@ Phonegap day EU 19/20 Mai à Amsterdam : http://pgday.phonegap.com/eu2016 (150e)
 
  - **[Alexandre Moureaux](https://twitter.com/almouro)** de BamLab.fr : Déployer une app Cordova/React Native/Native sur les stores en une ligne de commande avec Fastlane
 
- - **[Woody Rousseau](https://twitter.com/WoodyRousseau)** de Théodo : Builder et déployer des mises à jour automatiquement avec Ionic Platform 
+ - **[Woody Rousseau](https://twitter.com/WoodyRousseau)** de Théodo : Builder et déployer des mises à jour automatiquement avec Ionic Platform : [slides](./ionic-platform.pdf)
 
  - **[Benjamin Michel](https://twitter.com/BenjMichel)** de BamLab.fr : Caching for high-performance hybrid apps -> SLIDES : http://slides.com/benjaminbam/c#/
 
