@@ -30,3 +30,5 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
 - ~~**Builder et déployer des mises à jour automatiquement avec Ionic Platform** par Woody Rousseau <woodyr@theodo.fr>~~
 
 - ~~**Caching for high-performance hybrid apps** par Benjamin Michel <benjaminm@bamlab.fr>~~
+
+- ~~**Retour expérience app hybride avec ionic pour la production : Welp** par Titouan BENOIT <titouan@welp.today>~~
