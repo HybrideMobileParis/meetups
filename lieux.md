@@ -10,3 +10,4 @@
  - BeMyApp
  - Criteo
  - Sogé, cf alexis
+ - Atelier BNP WeAreInnovation
