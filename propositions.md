@@ -2,9 +2,13 @@
 
 Editez ce fichier et soumettez une pull request pour faire votre proposition
 
- - ~~**Cordova + Ionic vs. Steroids + Supersonic : est-ce que, et comment migrer ?** par Marek Kalnik <marekk@bamlab.fr>~~ -> meetup 10
+## Talks à venir
 
- - **iOS Cordova plugins with SWIFT** par Julien Bouquillon <julien@bouquillon.com>
+ - 
+ 
+## Talks passés 
+
+ - ~~**Cordova + Ionic vs. Steroids + Supersonic : est-ce que, et comment migrer ?** par Marek Kalnik <marekk@bamlab.fr>~~ -> meetup 10
 
  - ~~**Intégration de Cordova dans les outils de Dev Microsoft** par Etienne Margraff <etienne.margraff@microsoft.com>~~ -> meetup 10
 
