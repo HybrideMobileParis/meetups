@@ -4,7 +4,8 @@ Editez ce fichier et soumettez une pull request pour faire votre proposition
 
 ## Talks à venir
 
- - 
+ - **Building a React Native App From Scratch**: React Native, as a new way to develop mobile application with little to no knowledge about native development, allowed us to go from nothing to a released mobile app in less than 3 months.
+
  
 ## Talks passés 
 
