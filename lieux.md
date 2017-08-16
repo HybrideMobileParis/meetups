@@ -11,3 +11,6 @@
  - Criteo
  - Sogé, cf alexis
  - Atelier BNP WeAreInnovation
+
+
+see also : https://trello.com/b/wyiHbTlT/sponsoring
